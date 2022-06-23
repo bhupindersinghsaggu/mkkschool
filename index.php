@@ -7,7 +7,7 @@
 
    <a class=".d-sm-none .d-md-block" href="payonline.php" target=_blank>
         <div class="login style=" top:157px; id="">
-            <i class="fa fa-book"></i> Pay Online </div>
+            <i class="fa fa-book"></i> Pay Online- </div>
     </a>
 
 	<script src="js/vendor/modernizr-3.5.0.min.js"></script>
